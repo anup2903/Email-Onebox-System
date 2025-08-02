@@ -4,9 +4,9 @@
 
 Tech Stack
 
-React + TypeScript
-Vite
-Axios
+1. React + TypeScript
+2. Vite
+3. Axios
 
 Setting up the frontend
 
@@ -18,12 +18,12 @@ Setting up the frontend
 
 Tech Stack :
 
-Node.js + TypeScript
-Express
-ts-node-dev
-ChromaDB (local)
-Google Generative AI SDK
-CORS
+1. Node.js + TypeScript
+2. Express
+3. ts-node-dev
+4. ChromaDB (local)
+5. Google Generative AI SDK
+6. CORS
 
 Setting up the backend
 1. cd backend
